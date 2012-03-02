@@ -1,0 +1,5 @@
+ircbot
+======
+Description: IRC bot to log messages.
+Dependencies:
+- python-irclib
